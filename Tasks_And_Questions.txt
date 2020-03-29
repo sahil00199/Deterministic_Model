@@ -1,0 +1,10 @@
+
+[1] Get the basic SIR code up and running
+
+[2] Time delay?
+
+[3] Age Stratified Interacting model?
+
+[4] Death rate?
+
+[5] 
